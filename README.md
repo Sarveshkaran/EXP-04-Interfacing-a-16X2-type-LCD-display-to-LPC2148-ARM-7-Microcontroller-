@@ -1,7 +1,7 @@
 # EXP-04-Interfacing a 16X2 type LCD display to LPC2148 ARM 7Microcontroller
 ~~~
-Name : H.Syed Abdul Wasih
-Reg no : 212221240057
+Name : V.Sarveshkaran
+Reg no : 212221230089
 Date of experiment : 14/10/2022
 ~~~
 ## Interfacing a 16X2 type LCD display to LPC2148 ARM 7 Microcontroller 
