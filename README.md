@@ -180,11 +180,11 @@ int main(void)
 ~~~
 ## Proteus simulation: 
 ### LCD OFF:
-![2](https://user-images.githubusercontent.com/91781810/195811475-5c2bf36b-1220-48cc-b7f8-ba7fab3f6ba8.jpg)
+![2](x.jpeg)
 ### LCD ON:
-![1](https://user-images.githubusercontent.com/91781810/195811528-316bc48c-8dbc-4a04-978a-b18caa2dd93e.jpg)
+![1](y.jpeg)
 ##  Layout Diagram: 
-![3](https://user-images.githubusercontent.com/91781810/195811664-c87b5312-d531-46ec-87e6-3f5e0bf2fa53.jpg)
+![3](z.jpeg)
 ## Result :
 Interfaced an LCD with ARM microcontroller is executed and displayed the strings.
 
